@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/stopamusa/bookings/pkg/config"
-	"github.com/stopamusa/bookings/pkg/handlers"
-	"github.com/stopamusa/bookings/pkg/render"
+	"github.com/stopamusa/bookings/internal/config"
+	"github.com/stopamusa/bookings/internal/handlers"
+	"github.com/stopamusa/bookings/internal/render"
 )
 
 const portNumber = ":8080"
